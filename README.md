@@ -1,1 +1,1 @@
-# arknights-spanish-dialogues
+# ArknightsSpanishSubs
