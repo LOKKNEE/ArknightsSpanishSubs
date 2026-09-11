@@ -1,1 +1,1 @@
-# ArknightsSpanishSubs
+# Arknights Spanish Subs
