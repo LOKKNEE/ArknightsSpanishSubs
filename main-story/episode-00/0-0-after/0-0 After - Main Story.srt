@@ -1,0 +1,338 @@
+1
+00:00:00,950 --> 00:00:03,850
+Guard: ¡Este es el último!
+
+2
+00:00:03,950 --> 00:00:05,850
+Miembro de Reunion: ¡Uf!
+
+3
+00:00:05,950 --> 00:00:10,850
+Guard: Objetivo eliminado. ¡El escuadrón
+enemigo se retira!
+
+4
+00:00:10,950 --> 00:00:17,850
+Guard: Las órdenes del Dr. Shin han sido
+perfectas, tal como dijo Amiya. ¡Qué
+alivio!
+
+5
+00:00:17,950 --> 00:00:21,850
+Amiya: ¿Ves? No ha sido tan difícil,
+¿verdad?
+
+6
+00:00:21,950 --> 00:00:28,850
+Amiya: Doctor, comparado con todo lo que
+has pasado, esto es un paseo.
+
+7
+00:00:30,950 --> 00:00:35,850
+Miembro de Reunion: *cof*... ¿Por qué
+estáis aquí...? No sois de Ursus...
+
+8
+00:00:35,950 --> 00:00:41,850
+Miembro de Reunion: No dejaremos... que os
+interpongáis en nuestras tareas.
+
+9
+00:00:42,950 --> 00:00:45,850
+???: ¡Ni se te ocurra!
+
+10
+00:00:46,950 --> 00:00:48,850
+Guard: ¡Instructora!
+
+11
+00:00:48,950 --> 00:00:54,850
+Dobermann: ¿En qué estabas pensando? ¡Casi
+consigues que te maten!
+
+12
+00:00:54,950 --> 00:00:57,850
+Guard: Lo... lo siento.
+
+13
+00:00:57,950 --> 00:01:01,850
+Dobermann: ¡Rápido! ¡Volved a la
+formación!
+
+14
+00:01:03,950 --> 00:01:06,850
+Amiya: ¡Dobermann! ¡Lo has conseguido!
+
+15
+00:01:07,950 --> 00:01:12,850
+Dobermann: Es una emergencia. Mi equipo
+también fue atacado por Reunion.
+
+16
+00:01:12,950 --> 00:01:17,850
+Dobermann: Me apresuré a unirme a vosotros
+en cuanto pude.
+
+17
+00:01:17,950 --> 00:01:21,850
+Amiya: ¿Por qué nos atacaría Reunion...?
+
+18
+00:01:21,950 --> 00:01:29,850
+Dobermann: Una organización formada por
+infectados... Siempre pensé que eran algo
+extremistas...
+
+19
+00:01:29,950 --> 00:01:37,850
+Dobermann: ...y ahora han recurrido a la
+violencia, en una ciudad de Ursus. Es un
+suicidio.
+
+20
+00:01:37,950 --> 00:01:48,850
+Dobermann: La situación solo va a volverse
+más caótica. Amiya, debemos salir de
+Chernobog ahora mismo.
+
+21
+00:01:48,950 --> 00:01:55,850
+Amiya: De acuerdo. Ya hemos rescatado al
+Doctor, así que podemos retirarnos según
+el plan.
+
+22
+00:01:55,950 --> 00:01:58,850
+Dobermann: ...¿Y este es el Dr. Shin?
+
+23
+00:01:58,950 --> 00:02:00,850
+Amiya: Sí.
+
+24
+00:02:00,950 --> 00:02:08,850
+Dobermann: Dr. Shin, probablemente no sepa
+quién soy, pero conoce a Amiya. Por su
+seguridad...
+
+25
+00:02:08,950 --> 00:02:10,850
+Amiya: No, no...
+
+26
+00:02:10,950 --> 00:02:15,850
+Amiya: Eh... Dobermann, el Doctor no se
+encuentra muy bien ahora mismo.
+
+27
+00:02:15,950 --> 00:02:20,850
+Amiya: Dicho de forma sencilla, el
+Doctor... tiene amnesia.
+
+28
+00:02:20,950 --> 00:02:22,850
+Dobermann: ¿Amnesia?
+
+29
+00:02:23,950 --> 00:02:30,850
+Dobermann: ...¿Y qué vas a hacer ahora?
+¿No pensabas transferirle el mando a...?
+
+30
+00:02:30,950 --> 00:02:34,850
+Amiya: El Doctor aún conserva la capacidad
+de dirigir.
+
+31
+00:02:34,950 --> 00:02:40,850
+Amiya: ...Al menos, lo he confirmado en el
+combate anterior.
+
+32
+00:02:42,950 --> 00:02:47,850
+Dobermann: No puedo obligarme a confiar
+tan fácilmente en un desconocido.
+
+33
+00:02:47,950 --> 00:02:51,850
+Dobermann: Pero confío en ti, Amiya.
+
+34
+00:02:51,950 --> 00:02:53,850
+Amiya: ...Lo entiendo.
+
+35
+00:02:54,950 --> 00:02:58,850
+Dobermann: Dr. Shin, soy Dobermann,
+capitana del Equipo Operativo E1.
+
+36
+00:02:59,950 --> 00:03:09,850
+Dobermann: Vamos a escoltarle fuera de
+Chernobog, la ciudad de Ursus en la que
+estamos.
+
+37
+00:03:09,950 --> 00:03:16,850
+Dobermann: Estamos en una instalación
+abandonada de Chernobog y ahora debemos
+dirigirnos al oeste.
+
+38
+00:03:16,950 --> 00:03:29,850
+Amiya: Pero, como estamos incomunicados de
+la Dra. Kal'tsit, Dobermann y yo hemos
+liderado equipos de rescate separados.
+
+39
+00:03:29,950 --> 00:03:34,850
+Amiya: Eso, suponiendo que todo salga
+según el plan.
+
+40
+00:03:34,950 --> 00:03:39,850
+Dobermann: Sería bonito que las cosas
+fueran tan bien.
+
+41
+00:03:39,950 --> 00:03:45,850
+Dobermann: Hoy es nuestra última
+oportunidad para rescatarle de aquí, Dr.
+Shin.
+
+42
+00:03:45,950 --> 00:03:49,850
+Dobermann: Pero... tengo un mal
+presentimiento.
+
+43
+00:03:51,950 --> 00:03:53,850
+Operador médico: ¡A-Amiya!
+
+44
+00:03:53,950 --> 00:03:56,850
+Amiya: ¿Qué ocurre?
+
+45
+00:03:56,950 --> 00:04:01,850
+Operador médico: Es... ¡es una llamada de
+Rhodes Island!
+
+46
+00:04:01,950 --> 00:04:07,850
+Amiya: ¿Han vuelto las comunicaciones? ¿Es
+la Dra. Kal'tsit...?
+
+47
+00:04:07,950 --> 00:04:11,850
+???: Lo siento, pero no exactamente.
+
+48
+00:04:14,950 --> 00:04:19,850
+PRTS: Se ha activado el Sistema de
+Solicitud de Conexión Neural de
+Emergencia.
+
+49
+00:04:20,950 --> 00:04:29,850
+PRTS: También se han detectado
+interferencias desde Rhodes Island, y solo
+se ha conseguido una conexión parcial.
+
+50
+00:04:29,950 --> 00:04:38,850
+PRTS: Actualmente no se puede establecer
+comunicación con Kal'tsit, que aún no ha
+regresado.
+
+51
+00:04:38,950 --> 00:04:44,850
+PRTS: Su seguridad ha sido confirmada; por
+tanto, mi misión ha concluido.
+
+52
+00:04:44,950 --> 00:04:47,850
+Dobermann: Esta cosa de...
+
+53
+00:04:47,950 --> 00:04:51,850
+Dobermann: ¿De verdad tenemos tiempo para
+esto...?
+
+54
+00:04:51,950 --> 00:04:59,850
+PRTS: Si no necesita conectarse con Rhodes
+Island, se interrumpirá la comunicación.
+
+55
+00:04:59,950 --> 00:05:05,850
+PRTS: Lamento sinceramente haber
+interrumpido su reunión.
+
+56
+00:05:05,950 --> 00:05:10,850
+Amiya: ¡Espera, espera! No cuelgues. Aún
+necesito tu ayuda.
+
+57
+00:05:10,950 --> 00:05:15,850
+Amiya: Dobermann, el Doctor todavía
+necesita algo de asistencia.
+
+58
+00:05:15,950 --> 00:05:18,850
+Dobermann: Lo sé, pero que sea rápido.
+
+59
+00:05:19,950 --> 00:05:25,850
+Amiya: Doctor, PRTS también es uno de
+nuestros... compañeros. Le mostrará qué
+hacer a continuación.
+
+60
+00:05:26,950 --> 00:05:33,850
+Amiya: El tiempo apremia, así que voy a
+reconectarle al sistema auxiliar de Rhodes
+Island.
+
+61
+00:05:34,950 --> 00:05:38,850
+Amiya: Así tendremos ventaja en combate.
+
+62
+00:05:38,950 --> 00:05:51,850
+Amiya: Es distinto a dar órdenes
+verbalmente y puede costar un poco
+acostumbrarse,
+
+63
+00:05:51,950 --> 00:05:56,850
+Amiya: ...pero confía en mí. Como antes.
+
+64
+00:05:56,950 --> 00:05:59,850
+Amiya: PRTS... Empecemos.
+
+65
+00:05:59,950 --> 00:06:05,850
+PRTS: Verificación de identidad requerida.
+Seleccione método de verificación.
+
+66
+00:06:05,950 --> 00:06:12,850
+Amiya: Ah, Doctor... Por favor, diga algo.
+
+67
+00:06:12,950 --> 00:06:20,850
+PRTS: No sé por qué no ha hablado, pero
+tocar la interfaz también es válido.
+
+68
+00:06:20,950 --> 00:06:28,850
+PRTS: Coincidencia de huella encontrada.
+Verificación completa. Nivel de
+autorización: 8.
+
+69
+00:06:28,950 --> 00:06:33,850
+PRTS: Bienvenido a casa, Dr. Shin.
