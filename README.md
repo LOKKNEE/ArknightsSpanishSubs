@@ -19,3 +19,11 @@ main-story/
     0-0-after/
 collabs/
 templates/
+
+This is a fan-made translation project.
+
+Arknights and all related characters, story, music, images and trademarks belong to Hypergryph, Studio Montagne and/or Yostar.
+
+These files are provided for archival, subtitle and fan-translation purposes only.
+
+Credits
